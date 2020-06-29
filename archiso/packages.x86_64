@@ -246,7 +246,7 @@ imagemagick
 #libreoffice-fresh
 #lshw
 #meld
-nitrogen
+#nitrogen
 numlockx
 #pragha
 #qbittorrent
@@ -459,7 +459,7 @@ arcolinux-bin-git
 #arcolinux-common-git
 arcolinux-conky-collection-git
 #arcolinux-conky-collection-plasma-git
-arcolinux-cron-git
+#arcolinux-cron-git
 #arcolinux-docs-git
 #arcolinux-faces-git
 arcolinux-fonts-git
@@ -473,9 +473,9 @@ arcolinux-kvantum-git
 arcolinux-lightdm-gtk-greeter
 #arcolinux-lightdm-gtk-greeter-plasma
 arcolinux-lightdm-gtk-greeter-settings
-arcolinux-local-applications-git
+#arcolinux-local-applications-git
 #arcolinux-local-applications-plasma-hide-git
-arcolinux-local-xfce4-git
+#arcolinux-local-xfce4-git
 #arcolinux-logo-git
 #arcolinux-logout-git
 #arcolinux-logout-themes-git
@@ -483,7 +483,7 @@ arcolinux-local-xfce4-git
 #arcolinux-lxqt-applications-hide-git
 arcolinux-mirrorlist-git
 arcolinux-neofetch-git
-arcolinux-nitrogen-git
+#arcolinux-nitrogen-git
 #arcolinux-oblogout
 #arcolinux-oblogout-themes-git
 #arcolinux-obmenu-generator-git
@@ -503,7 +503,7 @@ arcolinux-root-git
 #arcolinux-slim
 #arcolinux-slimlock-themes-git
 arcolinux-system-config-git
-arcolinux-systemd-services-git
+#arcolinux-systemd-services-git
 arcolinux-termite-themes-git
 #arcolinux-tint2-git
 #arcolinux-tint2-themes-git
@@ -801,5 +801,8 @@ gnome-screenshot
 arcolinux-qt5-git
 accountsservice
 qt5-quickcontrols
-mate
-mate-extra
+#mate
+#mate-extra
+mate-desktop
+mate-menus
+mate-control-center
