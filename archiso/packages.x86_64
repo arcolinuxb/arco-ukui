@@ -487,7 +487,7 @@ arcolinux-kvantum-theme-arc-git
 arcolinux-lightdm-gtk-greeter
 #arcolinux-lightdm-gtk-greeter-plasma
 arcolinux-lightdm-gtk-greeter-settings
-#arcolinux-local-applications-git
+arcolinux-local-applications-git
 #arcolinux-local-applications-plasma-hide-git
 #arcolinux-local-xfce4-git
 #arcolinux-logo-git
