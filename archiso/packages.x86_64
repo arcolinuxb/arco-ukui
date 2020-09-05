@@ -321,7 +321,7 @@ gksu
 #glances
 gnome-disk-utility
 gnome-keyring
-#gnome-screenshot
+gnome-screenshot
 #gnome-software
 #gnome-software-packagekit-plugin
 gparted
@@ -357,7 +357,7 @@ qt5ct
 #qt5-tools
 qt5-webkit
 #powertop
-#redshift
+redshift
 rofi
 rxvt-unicode
 #simple-scan
@@ -816,11 +816,8 @@ xfce4-notifyd
 #                                ISO SPECIFIC
 ###########################################################################
 
-#desktop specific
+#desktop specific ukui
 ukui
-redshift
-gnome-screenshot
-arcolinux-qt5-git
 qt5-quickcontrols
 mate-desktop
 mate-menus
