@@ -321,7 +321,7 @@ gksu
 #glances
 gnome-disk-utility
 gnome-keyring
-gnome-screenshot
+#gnome-screenshot
 #gnome-software
 #gnome-software-packagekit-plugin
 gparted
@@ -357,7 +357,7 @@ qt5ct
 #qt5-tools
 qt5-webkit
 #powertop
-redshift
+#redshift
 rofi
 rxvt-unicode
 #simple-scan
@@ -510,7 +510,7 @@ arcolinux-pipemenus-git
 #arcolinux-plank-themes-git
 #arcolinux-plasma-kservices-git
 #arcolinux-polybar-git
-arcolinux-qt5-git
+#arcolinux-qt5-git
 #arcolinux-qt5-plasma-git
 #arcolinux-rofi-git
 #arcolinux-rofi-themes-git
@@ -818,6 +818,9 @@ xfce4-notifyd
 
 #desktop specific ukui
 ukui
+redshift
+gnome-screenshot
+arcolinux-qt5-git
 qt5-quickcontrols
 mate-desktop
 mate-menus
