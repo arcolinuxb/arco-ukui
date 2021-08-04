@@ -29,7 +29,7 @@ echo
 	desktop="ukui"
 	dmDesktop="ukui"
 
-	arcolinuxVersion='v21.09.5'
+	arcolinuxVersion='v21.09.6'
 
 	isoLabel='arcolinuxb-'$desktop'-'$arcolinuxVersion'-x86_64.iso'
 
