@@ -308,7 +308,7 @@ variety
 #vlc
 
 ###conky
-jq
+#jq
 #lm_sensors
 
 ###cursors
@@ -335,9 +335,9 @@ ttf-ubuntu-font-family
 
 ###themes
 #adapta-gtk-theme
-arc-gtk-theme
-arc-darkest-theme-git
-kvantum-qt5
+#arc-gtk-theme
+#arc-darkest-theme-git
+#kvantum-qt5
 #openbox-arc-git
 
 ###utilities
@@ -474,8 +474,8 @@ mkinitcpio-openswap
 ###utilities-repo
 alacritty
 appstream
-archiso
-conky-lua-archers
+#archiso
+#conky-lua-archers
 downgrade
 #font-manager
 #glxinfo
@@ -529,7 +529,7 @@ arcolinux-bin-git
 #arcolinux-candy-beauty-git
 #arcolinux-common-git
 #arcolinux-conky-collection-git
-arcolinux-conky-collection-plasma-git
+#arcolinux-conky-collection-plasma-git
 ##arcolinux-cron-git
 #arcolinux-docs-git
 arcolinux-desktop-trasher-git
@@ -538,19 +538,19 @@ arcolinux-fonts-git
 #arcolinux-geany-git
 arcolinux-grub-theme-vimix-git
 #arcolinux-gtk3-arcolinux-candy-beauty-git
-arcolinux-gtk3-sardi-arc-git
+#arcolinux-gtk3-sardi-arc-git
 #arcolinux-gtk3-surfn-arc-git
 #arcolinux-gtk3-surfn-arc-breeze-git
 #arcolinux-gtk3-surfn-plasma-dark-git
 #arcolinux-guake-autostart-git
-arcolinux-hblock-git
+#arcolinux-hblock-git
 arcolinux-keyring
-arcolinux-kvantum-git
+#arcolinux-kvantum-git
 #arcolinux-kvantum-lxqt-git
 #arcolinux-kvantum-plasma-git
-arcolinux-kvantum-theme-arc-git
+#arcolinux-kvantum-theme-arc-git
 #arcolinux-local-applications-git
-arcolinux-local-applications-all-hide-git
+#arcolinux-local-applications-all-hide-git
 #arcolinux-local-applications-plasma-hide-git
 #arcolinux-local-xfce4-git
 #arcolinux-logo-git
@@ -569,7 +569,7 @@ arcolinux-neofetch-git
 #arcolinux-obmenu-generator-xtended-git
 #arcolinux-openbox-themes-git
 arcolinux-paru-git
-arcolinux-pipemenus-git
+#arcolinux-pipemenus-git
 #arcolinux-plank-git
 #arcolinux-plank-themes-git
 #arcolinux-plasma-kservices-git
@@ -589,8 +589,8 @@ arcolinux-systemd-services-git
 #arcolinux-tint2-git
 #arcolinux-tint2-themes-git
 archlinux-tweak-tool-git
-arcolinux-variety-git
-arcolinux-variety-autostart-git
+#arcolinux-variety-git
+#arcolinux-variety-autostart-git
 #arcolinux-volumeicon-git
 arcolinux-wallpapers-git
 #arcolinux-wallpapers-dual-git
@@ -642,7 +642,7 @@ arcolinux-ukui-git
 #                           ARCOLINUX CONFIG FOLDER
 ###########################################################################
 
-arcolinux-config-all-desktops-git
+#arcolinux-config-all-desktops-git
 #arcolinux-config-awesome-git
 #arcolinux-config-berry-git
 #arcolinux-config-bspwm-git
@@ -706,7 +706,7 @@ arcolinux-config-all-desktops-git
 #arcolinux-plasma-dconf-git
 #arcolinux-qtile-dconf-git
 #arcolinux-spectrwm-dconf-git
-arcolinux-ukui-dconf-git
+#arcolinux-ukui-dconf-git
 #arcolinux-worm-dconf-git
 #arcolinux-wmderland-dconf-git
 #arcolinux-xfce-dconf-git
@@ -937,12 +937,12 @@ arcolinux-sddm-simplicity-git
 
 #desktop specific ukui
 ukui
-redshift
-gnome-screenshot
-arcolinux-qt5-git
-qt5-quickcontrols
-mate-desktop
-mate-menus
-mate-control-center
-mate-terminal
-mate-system-monitor
+#redshift
+#gnome-screenshot
+#arcolinux-qt5-git
+#qt5-quickcontrols
+#mate-desktop
+#mate-menus
+#mate-control-center
+#mate-terminal
+#mate-system-monitor
