@@ -552,7 +552,7 @@ arcolinux-kvantum-theme-arc-git
 #arcolinux-local-applications-git
 arcolinux-local-applications-all-hide-git
 #arcolinux-local-applications-plasma-hide-git
-arcolinux-local-xfce4-git
+#arcolinux-local-xfce4-git
 #arcolinux-logo-git
 #archlinux-logout-git
 #arcolinux-logout-themes-git
@@ -634,7 +634,7 @@ arcolinux-zsh-git
 arcolinux-ukui-git
 #arcolinux-worm-git
 #arcolinux-wmderland-git
-arcolinux-xfce-git
+#arcolinux-xfce-git
 #arcolinux-xmonad-polybar-git
 #arcolinux-xmonad-xmobar-git
 
@@ -872,17 +872,17 @@ arcolinux-sddm-simplicity-git
 
 ### xfce4 group content
 # https://www.archlinux.org/groups/x86_64/xfce4/
-exo
+#exo
 #garcon
-thunar
-thunar-volman
-tumbler
+#thunar
+#thunar-volman
+#tumbler
 #xfce4-appfinder
 #xfce4-panel
 #xfce4-power-manager
 #xfce4-session
 #xfce4-settings
-xfce4-terminal
+#xfce4-terminal
 #xfconf
 #xfdesktop
 #xfwm4
@@ -894,8 +894,8 @@ xfce4-terminal
 #orage
 #parole
 #ristretto
-thunar-archive-plugin
-thunar-media-tags-plugin
+#thunar-archive-plugin
+#thunar-media-tags-plugin
 #xfburn
 #xfce4-artwork
 #xfce4-battery-plugin
@@ -913,7 +913,7 @@ thunar-media-tags-plugin
 #xfce4-mpc-plugin
 #xfce4-netload-plugin
 #xfce4-notes-plugin
-xfce4-notifyd
+#xfce4-notifyd
 #xfce4-pulseaudio-plugin
 #xfce4-screensaver
 #xfce4-screenshooter
