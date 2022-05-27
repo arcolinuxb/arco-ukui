@@ -100,7 +100,7 @@ reflector
 reiserfsprogs
 rp-pppoe
 rsync
-rxvt-unicode-terminfo
+#rxvt-unicode-terminfo
 screen
 sdparm
 sg3_utils
@@ -304,7 +304,7 @@ numlockx
 scrot
 #simplescreenrecorder
 #termite
-variety
+#variety
 #vlc
 
 ###conky
@@ -348,7 +348,7 @@ bash-completion
 bat
 #catfish
 #cronie
-dconf-editor
+#dconf-editor
 dex
 #discord
 duf-bin
@@ -360,17 +360,17 @@ file-roller
 git
 gksu
 #glances
-gnome-disk-utility
+#gnome-disk-utility
 gnome-keyring
 #gnome-screenshot
 #gnome-software
 #gnome-software-packagekit-plugin
-gparted
+#gparted
 #gpick
 #gtop
-hardinfo-gtk3
+#hardinfo-gtk3
 #hddtemp
-htop
+#htop
 #hunspell
 #hunspell-en_US
 hw-probe
@@ -395,18 +395,18 @@ polkit-gnome
 #python2-dbus
 #python2-xdg
 #qt4
-qt5ct
+#qt5ct
 #qt5-styleplugins
 #qt5-tools
-qt5-webkit
+#qt5-webkit
 #powertop
 #redshift
 ripgrep
-rofi
-rxvt-unicode
+#rofi
+#rxvt-unicode
 #simple-scan
 #shotwell
-speedtest-cli-git
+#speedtest-cli-git
 #telegram-desktop
 #timeshift
 tlp
@@ -417,12 +417,12 @@ unace
 unrar
 unzip
 #vnstat
-w3m
-webkit2gtk
-wmctrl
-xapp
-xdo
-xdotool
+#w3m
+#webkit2gtk
+#wmctrl
+#xapp
+#xdo
+#xdotool
 xdg-desktop-portal-gtk
 #yt-dlp
 #youtube-dl
@@ -444,7 +444,7 @@ zsh-syntax-highlighting
 #breeze-cursors-lh
 #breeze-obsidian-cursor-theme
 #oxy-neon
-bibata-cursor-theme-bin
+#bibata-cursor-theme-bin
 #breeze
 #xcursor-vanilla-dmz-aa
 
@@ -472,7 +472,7 @@ surfn-icons-git
 mkinitcpio-openswap
 
 ###utilities-repo
-alacritty
+#alacritty
 appstream
 #archiso
 #conky-lua-archers
@@ -480,10 +480,10 @@ downgrade
 #font-manager
 #glxinfo
 #gitahead-bin
-grub-customizer
-hardcode-fixer-git
+#grub-customizer
+#hardcode-fixer-git
 inxi
-mintstick-git
+#mintstick-git
 neofetch
 #numix-gtk-theme-git
 arcolinux-pamac-all
@@ -492,7 +492,7 @@ paru-bin
 #peek
 #pulseaudio-equalizer-ladspa
 #pyakm
-python-pyparted
+#python-pyparted
 #python-pywal
 rate-mirrors-bin
 #scour
@@ -501,11 +501,11 @@ rate-mirrors-bin
 #the_platinum_searcher-bin
 the_silver_searcher
 #trizen
-urxvt-fullscreen
-urxvt-perls
-urxvt-resize-font-git
+#urxvt-fullscreen
+#urxvt-perls
+#urxvt-resize-font-git
 #wttr
-yad
+#yad
 #yakuake
 yay-bin
 
@@ -522,7 +522,7 @@ yay-bin
 #                           ARCOLINUX FOLDER
 ###########################################################################
 
-arcolinux-alacritty-git
+#arcolinux-alacritty-git
 #arcolinux-arc-kde
 #arcolinux-arc-themes-2021-git
 arcolinux-bin-git
@@ -555,7 +555,7 @@ arcolinux-keyring
 #arcolinux-local-xfce4-git
 #arcolinux-logo-git
 #archlinux-logout-git
-#arcolinux-logout-themes-git
+#archlinux-logout-themes-git
 #arcolinux-lxqt-applications-add-git
 #arcolinux-lxqt-applications-hide-git
 #arcolinux-meta-logout
@@ -944,5 +944,5 @@ ukui
 #mate-desktop
 #mate-menus
 #mate-control-center
-#mate-terminal
+mate-terminal
 #mate-system-monitor
